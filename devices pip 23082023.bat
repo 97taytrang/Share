@@ -1,6 +1,7 @@
 pip install wget
 pip install gTTS
 pip install names
+pip install PyQt6
 pip install pyotp
 pip install numpy
 pip install pytube
