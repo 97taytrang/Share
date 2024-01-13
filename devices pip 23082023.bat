@@ -5,6 +5,8 @@ pip install PyQt6
 pip install pyotp
 pip install numpy
 pip install pytube
+pip install fastapi
+pip install uvicorn
 pip install gspread
 pip install urllib3
 pip install asyncio
